@@ -107,7 +107,7 @@ To complete this lab:
    - Successful execution of `aws s3 ls`.
 2. Paste the screenshots into a **Google Doc**.
 3. Upload the document to **Google Drive**.
-4. Share the **Google Drive link** with your instructor.
+4. To submit the lab, paste the **Google Drive link** in the submission field in the Student Portal.
 
 This lab provides **practical experience** in configuring AWS CLI and securely managing IAM credentials, ensuring controlled access to AWS services.
 
